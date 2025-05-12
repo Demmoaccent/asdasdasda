@@ -112,14 +112,14 @@ main {
     background-color: #ffffff;
     box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.15);
     border-radius: 0px 0px 12px 12px;
-    margin: 0 20px 16px 21px;
+    margin: 0 8px 16px 8px;
     padding: 15px;
     display: flex;
     align-items: center;
     color: #598527;
     font-size: 14px;
     font-weight: 600;
-    width: calc(100% - 30px); /* szerokość 100% minus marginesy */
+    width: calc(100% - 16px); /* szerokość 100% minus marginesy */
 }
 #bottom p{
     margin-left: 20px;
