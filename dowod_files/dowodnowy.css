@@ -31,16 +31,16 @@ p.czas {
 main {
     position: relative;
     background-image: url(../dowod_files/dowodnowybg.svg);
-    margin: 7px 20px 0px 30px;
-    height: 415px;
+    margin: 16px 8px 0 8px;         /* góra, prawa, dół, lewa: 8px po bokach */
+    height: 400px;
     display: flex;
-    border-radius: 12px 12px 0px 0px;
+    border-radius: 12px 12px 0 0;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
     background-repeat: no-repeat;
     background-size: cover;
-    width: calc(100% - 0px); /* szerokość 100% minus marginesy */
-    
+    width: calc(100% - 16px);       /* 8px z każdej strony */
 }
+
 
 #lew {
     position: relative;
