@@ -33,7 +33,7 @@ p.czas {
 main {
     position: relative;
     background-image: url(../dowod_files/dowodnowybg.svg);
-    margin: 0px 0px 0px 0px;
+    margin: 25px 0px 0px 0px;
     height: 415px;
     display: flex;
     border-radius: 12px 12px 0px 0px;
@@ -41,7 +41,7 @@ main {
     background-repeat: no-repeat;
     background-size: cover;
     width: calc(110% - 0px); /* szerokość 100% minus marginesy */
-    left: 15px;
+    left: 10px;
     
 }
 
