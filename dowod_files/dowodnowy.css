@@ -119,13 +119,13 @@ main {
     color: #598527;
     font-size: 18px;
     font-weight: 600;
-    width: calc(100% - 12px); /* szerokość 100% minus marginesy */
+    width: calc(100% - 13px); /* szerokość 100% minus marginesy */
 }
 #bottom p{
     margin-left: 20px;
 }
 .buto{
-    margin: 16px px 0 8px;
+    margin: 16px 8px 0px 8px;
     height: 3px;
     display: flex;
     background-color: #ffffff;
