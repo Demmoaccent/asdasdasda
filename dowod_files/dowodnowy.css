@@ -133,12 +133,12 @@ main {
     left: 5px;
 }
 .buto img:first-of-type:not(.buto img:last-of-type){
-    width: 20px;
+    width: 40px;
     margin-right: 10px;
 }
 .buto img:last-of-type{
     margin-left: auto;
-    width: 40px;
+    width: 60px;
 }
 
 #lo{
