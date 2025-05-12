@@ -28,18 +28,19 @@ p.czas {
     left: 25px; /* Przesuwa element o 10px w prawo */
 }
 
+
 main {
     position: relative;
     background-image: url(../dowod_files/dowodnowybg.svg);
-    padding: 0 8px;                          /* 8px wewnątrz z lewej i prawej */
-    height: 400px;
+    margin: 7px 20px 0px 30px;
+    height: 415px;
     display: flex;
-    border-radius: 12px 12px 0 0;
+    border-radius: 12px 12px 0px 0px;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 100vw;                            /* cała szerokość ekranu */
-    box-sizing: border-box;                 /* padding NIE powiększa elementu */
+    width: calc(100% - 0px); /* szerokość 100% minus marginesy */
+    
 }
 
 
