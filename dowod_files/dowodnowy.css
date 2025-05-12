@@ -122,7 +122,7 @@ main {
 }
 .buto{
     margin: 16px 16px 0 16px;
-    height: 4px;
+    height: 3px;
     display: flex;
     background-color: #ffffff;
     padding: 20px;
@@ -133,18 +133,18 @@ main {
     left: 5px;
 }
 .buto img:first-of-type:not(.buto img:last-of-type){
-    width: 28px;
+    width: 30px;
     margin-right: 10px;
 }
 .buto img:last-of-type{
     margin-left: auto;
-    width: 48px;
+    width: 50px;
 }
 
 #lo{
     margin-bottom: 0;
     padding: 0 20px;
-    height: 2px;
+    height: 1px;
 }
 .krecha{
     height: 0.01rem;
