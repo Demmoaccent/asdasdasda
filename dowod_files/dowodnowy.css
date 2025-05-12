@@ -120,7 +120,7 @@ main {
     font-size: 18px;
     font-weight: 600;
     width: calc(100% - 15px); /* szerokość 100% minus marginesy */
-    left: 2px;
+    left: 4px;
 }
 #bottom p{
     margin-left: 20px;
