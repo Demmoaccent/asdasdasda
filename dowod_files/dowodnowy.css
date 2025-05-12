@@ -41,7 +41,7 @@ main {
     background-repeat: no-repeat;
     background-size: cover;
     width: calc(104% - 0px); /* szerokość 100% minus marginesy */
-    left: 10px;
+    left: 12px;
     
 }
 
@@ -120,6 +120,7 @@ main {
     font-size: 18px;
     font-weight: 600;
     width: calc(100% - 15px); /* szerokość 100% minus marginesy */
+    left: 2px;
 }
 #bottom p{
     margin-left: 20px;
