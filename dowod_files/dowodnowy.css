@@ -117,9 +117,9 @@ main {
     display: flex;
     align-items: center;
     color: #598527;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 600;
-    width: calc(100% - 16px); /* szerokość 100% minus marginesy */
+    width: calc(100% - 12px); /* szerokość 100% minus marginesy */
 }
 #bottom p{
     margin-left: 20px;
