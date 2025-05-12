@@ -142,13 +142,10 @@ main {
 }
 
 #lo{
-    height: 0;
-    padding: 0;
-    margin: 0;
+    margin-bottom: 0;
+    padding: 0 20px;
+    height: 0px;
     overflow: hidden;
-    line-height: 0;
-    font-size: 0;
-    border: none;
 }
 .krecha{
     height: 0.01rem;
