@@ -26,6 +26,7 @@ p.czas {
     font-size: 18px;
     position: relative;
     left: 25px; /* Przesuwa element o 10px w prawo */
+    top: -10px;
 }
 
 
