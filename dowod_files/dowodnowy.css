@@ -41,7 +41,7 @@ main {
     background-repeat: no-repeat;
     background-size: cover;
     width: calc(103% - 0px); /* szerokość 100% minus marginesy */
-    left: 20px;
+    left: 10px;
     
 }
 
