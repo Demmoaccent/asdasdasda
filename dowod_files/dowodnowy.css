@@ -123,7 +123,7 @@ main {
     margin-left: 20px;
 }
 .buto{
-    margin: 16px 16px 0 16px;
+    margin: 16px 8px 0 8px;
     height: 3px;
     display: flex;
     background-color: #ffffff;
@@ -131,8 +131,9 @@ main {
     align-items: center;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     border-radius: 12px;
-    width: calc(100% - 30px);
+    width: calc(100% - 16px);
     left: 5px;
+
 }
 .buto img:first-of-type:not(.buto img:last-of-type){
     width: 30px;
