@@ -145,6 +145,7 @@ main {
     margin-bottom: 0;
     padding: 0 20px;
     height: 0px;
+    overflow: hidden;
 }
 .krecha{
     height: 0.01rem;
